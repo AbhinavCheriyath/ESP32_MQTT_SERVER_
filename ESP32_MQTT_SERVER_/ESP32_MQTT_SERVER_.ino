@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "GRAND HOME-4G";
-const char* password = "GRANDHOME@786";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // MQTT Broker details
 const char* mqtt_server = "broker.hivemq.com";
