@@ -98,13 +98,4 @@ Message received [esp32s3/test]: Hello ESP32
 
 ---
 
-⚡ With this project, you can use the ESP32-S3 to build **IoT applications** that communicate over MQTT — ideal for home automation, sensor networks, and real-time monitoring.
 
-```
-
----
-
-✅ This will give your GitHub repo a professional look.  
-
-Do you also want me to add a **folder structure section** (like `src/`, `docs/`, etc.) so it looks even more like a production-ready repo?
-```
